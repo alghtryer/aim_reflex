@@ -1,4 +1,4 @@
-## CS:GO Fast Aim / Reflex (aim_reflex) [![](https://img.shields.io/badge/download-zip-blue.svg)](https://github.com/alghtryer/aim_reflex/archive)
+## CS:GO Fast Aim / Reflex (aim_reflex) [![](https://img.shields.io/badge/download-zip-blue.svg)](https://github.com/alghtryer/aim_reflex/archive/main.zip)
 **Trainig Map from cs:go to 1.6**
 
 Video Preview : https://youtu.be/pbsUJnAL8cY
